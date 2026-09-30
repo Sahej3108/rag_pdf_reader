@@ -1,0 +1,15 @@
+langchain
+dotenv
+langchain-openai
+langchain-google-genai
+langchain-anthropic
+hugginface-hub
+streamlit
+python-dotenv
+langchain
+langchain-groq
+langchain-community
+langgraph
+google-search-results
+beautifulsoup4
+text-splitter
